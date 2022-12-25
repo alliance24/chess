@@ -1,0 +1,12 @@
+import pygame
+
+# Dimensions
+LARGEUR_ECHIQUIER = 400
+HAUTEUR_ECHIQUIER = 400
+LARGEUR_CASE = 50
+HAUTEUR_CASE = 50
+
+# Couleurs des cases
+COULEUR_CASE_BLANCHE = (255, 255, 255)
+COULEUR_CASE_NOIRE = (0, 0, 0)
+
